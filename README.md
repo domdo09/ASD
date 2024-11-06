@@ -2,7 +2,7 @@
 
 This repository contains the final project of the Algorithms and Data Structures course at the University of Naples Federico II.
 
-AY 2019/2020
+AY 2020/2021
 
 ## Assignment
 
