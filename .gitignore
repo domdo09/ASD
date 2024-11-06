@@ -1,0 +1,28 @@
+# File binari generati dalla compilazione
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# File di log o temporanei
+*.log
+*.tmp
+*.temp
+
+# File di configurazione degli IDE
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates    
+
+# Altri file temporanei di sistema
+.DS_Store
+Thumbs.db
